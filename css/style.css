@@ -1,0 +1,37 @@
+/*---- carousel ---- */
+.panda-bg-primary{
+    background-color: #fceae8;
+}
+.catagories img{
+    width: 100px;
+}
+.panda-btn-buynaw{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+
+}
+.watch{
+    color: white;
+}
+
+.bg-warning-watch{
+    background-color: #ffa500;  
+}
+.bag{
+    color: white;
+}
+.bg-success-bag{
+    background-color: #da70d6;
+}
+.shoe{
+    color: white;
+}
+.bg-primary-shoe{
+    background-color: #00f;
+}
+.bg-info-subscribe{
+    background-color: #fceae8;
+}
